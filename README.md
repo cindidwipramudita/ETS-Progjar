@@ -1,6 +1,6 @@
 # EVALUASI TENGAH SEMESTER PEMROGRAMAN JARINGAN
-- Nama: Kurnia Cahya Febryanto
-- NRP: 5025201073
-- Kelas: Pemrograman Jaringan A
+- Nama: Cindi Dwi Pramudita
+- NRP: 5025201042
+- Kelas: Pemrograman Jaringan C
 
 ## ETS
